@@ -1,0 +1,28 @@
+h1 {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#container {
+    display: block;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.item {
+    border-bottom: solid 1px #666;
+    margin-bottom: 10px;
+}
+
+a {
+    font-size: 18px;
+    text-decoration: none;
+    color: blue;
+}
+
+p {
+    line-height: 1.3;
+}
